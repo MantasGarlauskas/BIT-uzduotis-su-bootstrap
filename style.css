@@ -1,0 +1,10 @@
+.container{
+    margin-top: 50px;
+}
+.img-thumbnail{
+    height: 280px;
+}
+
+.card img{
+    height: 250px;
+}
