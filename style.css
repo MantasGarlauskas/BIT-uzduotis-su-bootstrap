@@ -6,5 +6,9 @@
 }
 
 .card img{
-    height: 250px;
+    height: 30vh;
+}
+.container iframe{
+    width: 30vh;
+    border: solid;
 }
